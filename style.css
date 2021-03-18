@@ -159,6 +159,7 @@ body {
   }
   
   .button {
+    margin-bottom: 20px;
     padding: 6px 20px;
     display: inline-block;
     vertical-align: baseline;
@@ -191,4 +192,16 @@ body {
   .footer-phone {
     padding-left: 25px;
     background-image: url("img/icon-phone-footer.svg");
+  }
+
+  /* SKILLS */
+  .level {
+      font-size: 14px;
+      background: #ffffff;
+      width: 500px;
+      height: 10px;
+      border: 1px solid #288be6;
+      border-radius: 20px;
+      margin-left: 0;
+
   }
